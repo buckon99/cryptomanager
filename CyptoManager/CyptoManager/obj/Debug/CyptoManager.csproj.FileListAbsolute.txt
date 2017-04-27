@@ -52,7 +52,6 @@ C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bi
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\Microsoft.Owin.Security.Twitter.dll
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\Newtonsoft.Json.dll
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\Owin.dll
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\System.Net.Http.Formatting.dll
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\System.Web.Helpers.dll
@@ -102,3 +101,6 @@ C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bi
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\obj\Debug\CyptoManager.csprojResolveAssemblyReference.cache
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\obj\Debug\CyptoManager.dll
 C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\obj\Debug\CyptoManager.pdb
+C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\SilvioSite.Service.dll
+C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\SilvioSite.Service.pdb
+C:\Users\Jack Buckon\Documents\GitHub\cryptomanager\CyptoManager\CyptoManager\bin\SilvioSite.Service.dll.config
