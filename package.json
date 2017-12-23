@@ -1,35 +1,34 @@
 {
   "name": "cryptomanager",
   "version": "0.0.1",
-  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "description": "CryptoManager is a tool for monitoring cryptocurrencies values and managing them. This tool is built from Gentelella Admin, which is a free to use Bootstrap admin template",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puikinsh/gentelella.git"
+    "url": "git+https://github.com/puikinsh/jackbtroop62/cryptomanager"
   },
   "keywords": [
-    "css",
-    "js",
     "html",
-    "template",
     "admin",
     "bootstrap",
-    "theme",
-    "backend",
-    "responsive"
+    "cryptocurrency",
+    "trading",
+    "crypto",
+    "bitcoin",
+    "ethereum",
+    "assets",
+    "manage",
+    "management"
   ],
-  "author": "Aigars Silkalns",
-  "contributors": [
-    "Christian Esperar"
-  ],
+  "author": "Jack Buckon",
+  "contributors": [],
   "license": "MIT",
-  "main": "build/js/custom.min.js",
+  "main": "app.js",
   "bugs": {
     "url": "https://github.com/puikinsh/gentelella/issues"
   },
-  "homepage": "https://github.com/puikinsh/gentelella#readme",
   "devDependencies": {
     "browser-sync": "^2.12.10",
     "gulp": "^3.9.1",
@@ -38,5 +37,10 @@
     "gulp-rename": "^1.2.2",
     "gulp-ruby-sass": "^2.0.6",
     "gulp-uglify": "^1.5.3"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
   }
 }
